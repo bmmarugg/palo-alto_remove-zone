@@ -1,0 +1,14 @@
+v1.0
+========================================================================================================================
+* Initial commit of the script, readme, and changelog
+
+v1.1
+========================================================================================================================
+* Added logfile writing to have a list of rules changed for auditing/backout purposes
+* Added the function to print the rule name currently being edited for feedback of progress to the user.
+
+v2.0
+========================================================================================================================
+* Added ability for user to specify which device-group to parse
+* Added ability for user to specify which zone to remove
+* Added functionality for both source and destination zones to be edited
